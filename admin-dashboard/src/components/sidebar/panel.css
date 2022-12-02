@@ -1,0 +1,33 @@
+.panel-main{
+    background-color: rgb(227, 222, 222);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    text-align: left;
+    font-weight: normal;
+
+}
+
+.panel-h2:hover{
+    background-color: rgb(151, 151, 240);
+    border-radius: 8px;
+}
+
+.panel-h2{
+    display: flex;
+    justify-content: row;
+/* padding: 2%; */
+/* gap: 5rem; */
+}
+
+.panel-link{
+    /* color: orange;
+    background-color: yellow; */
+}
+
+.panel-link{
+    text-decoration: none;
+}
+
+h2{
+    color: green;
+}

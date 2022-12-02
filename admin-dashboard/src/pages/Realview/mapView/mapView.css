@@ -1,0 +1,50 @@
+.mapView-mainDiv {
+    flex: 4;
+    /* padding-bottom: 100px; */
+    /* border: solid rgb(222, 0, 141) 3px; */
+    /* background-color: aquamarine; */
+    padding: 3%;
+
+}
+
+.mapView-secDiv {
+    display: flex;
+    /* justify-content: space-between; */
+    /* padding: 10px; */
+    /* border: solid rgb(0, 222, 30) 3px; */
+
+}
+
+.mapView-secDiv-1 {
+    /* border: solid red 3px; */
+    padding: 2%;
+    height: 100%;
+    
+}
+
+.mapview-input {
+    width: 76%;
+    padding: 2%;
+    text-align: center;
+}
+
+.mapview-input-button {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mapview-Bound-wise-button {
+    background-color: #24a0ed;
+    color: white;
+    border: none;
+    border-radius: 3px;
+
+}
+
+.map {
+    border: solid 2px red;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+}

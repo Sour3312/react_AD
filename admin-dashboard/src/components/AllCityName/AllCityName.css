@@ -1,0 +1,16 @@
+.AllCityName-mainDiv{
+   padding: 1%;
+   background-color: white;
+    -webkit-box-shadow: 0px 0px 5px 7px rgba(0, 0, 0, 0.05);
+    /* box-shadow: 0px 10px 10px 7px rgba(0, 0, 0, 0.55); */
+}
+
+.innerDiv{
+    display: flex;
+    justify-content: space-between;
+}
+
+p{
+    font-size: 12px;
+    font-weight: bolder;
+}

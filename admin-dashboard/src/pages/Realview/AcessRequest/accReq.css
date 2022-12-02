@@ -1,0 +1,8 @@
+.AccessRequest-mainDiv{
+    flex: 4;
+    text-align: center;
+}
+
+label{
+    padding-left: 10px;
+}

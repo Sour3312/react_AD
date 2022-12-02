@@ -1,0 +1,76 @@
+.mainDiv {
+    flex: 4;
+    background-color: rgb(227, 222, 222);
+    padding: 1%;
+}
+
+.triplist-dropdown{
+}
+.triplist-input{
+    /* border: none;
+    background-color: rgb(158, 162, 164);
+    border-radius: 10px; */
+}
+
+.inputDiv {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+select {
+    padding: 1%;
+    width: 30%;
+}
+
+option {
+    padding: 10px;
+}
+
+.inputDiv-input {
+    padding: 20px;
+}
+
+.searchBtn {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px ;
+    width: 9%;
+}
+
+.triplist-table {
+    margin: 4px, 4px;
+    padding: 4px;
+    display: flex;
+    justify-content: space-between;
+    /* border: greenyellow 1px solid; */
+    font-weight: bolder;
+ /* border: #24a0ed solid 3px; */
+}
+
+.trip-main-div{
+    background-color: white;
+    padding: 1%
+    ;
+}
+.list-div{
+    background-color:  whitesmoke;
+    text-align: center;
+}
+
+.list-div-h4{
+    /* border: 1px solid black; */
+    padding: 10px;
+    margin: 1px;
+}
+
+tr{
+    border: black solid 1px ;
+}
+
+td{
+    margin: 2px;
+    padding: 20px;
+    /* display: flex; */
+    flex-direction: row;
+}
